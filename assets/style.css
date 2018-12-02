@@ -1,0 +1,67 @@
+h2 {
+    color: white;
+    background-color: brown;
+    width: 200px;
+    height: 40px;
+    padding-top: 15px;
+}
+
+h4 {
+    color: green;
+    background-color: antiquewhite;
+    width: 430px;
+}
+
+body {
+background: url("../assets/images/wheat.png");
+}
+#Green,
+#Red,
+#Yellow,
+#Blue {
+    width: 100px;
+    height: 100px;
+}
+#scoreText {
+    background-color:teal;
+    width: 200px;
+    height:25px;
+    color: white;
+    padding-top: 2px;
+    font-size: 16px;
+}
+#score {
+    background-color: teal;
+    height: 90px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+}
+
+
+#randomNumber {
+    background-color: green;
+    color: black;
+    width: 150px;
+    height: 70px;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    padding-top:25px;
+    
+
+}
+
+#wins,
+#losses {
+    background-color: aqua;
+    color: black;
+    width: 80px;
+    height: 70px;
+    font-size: 16px;
+    display: inline-block;
+    padding-top:7px;
+    padding-bottom: 17px;
+    
+
+}
